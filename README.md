@@ -1,4 +1,4 @@
-🛡️ SOC Home Lab — Threat Detection & Incident Response
+🛡️ Enterprise IT Infrastructure & Security Home Lab
 A home-based SOC simulation built to experience real-world attack detection using Splunk SIEM, Sysmon, and Active Directory. Simulated live attacks, built automated detection rules, and mapped all findings to MITRE ATT&CK.
 
 🖥️ Lab Environment
